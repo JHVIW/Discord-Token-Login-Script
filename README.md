@@ -1,6 +1,6 @@
 
 # Discord Token Login Script
-# Working 12 June 2024
+# Working June 12th 2024
 
 This script allows you to log into Discord's web app using a specified token.
 
